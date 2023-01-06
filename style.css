@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+.first-part{
+    background-image: url(images/banner/banner2.png);
+    height: 809px;
+    background-repeat: no-repeat;
+}
+.first-description{
+    color: #444343;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: right;
+    position: absolute;
+    left: 876px;
+    top: 468px;
+    right: 230px;
+
+}
+
+.first-part h3{
+    font-size: 65px;
+    font-weight: 700;
+    text-align: right;
+    position: absolute;
+    left: 845px;
+    top: 216px;
+    right: 230px;
+}
+/*                    Button              */
+
+.btn-primary{
+    background-color: orangered;
+    position: absolute;
+    right: 230px;
+    top: 578px;
+    height: 64px;
+    width: 160px;
+    border: 0px;
+    border-radius: 5px;
+}
