@@ -88,3 +88,14 @@
     color: #444343;
 
 }
+/* Skills I have Completed */
+.skill-Plan{
+    font-size: 40px;
+    margin: 40px 0;
+    text-align: center;
+}
+.skills{
+    margin-left: 240px;
+    display: flex;
+    gap: 100px;
+}
