@@ -193,3 +193,45 @@
     font-weight: 600;
 
 }
+
+.bonus-place{
+    background-image: url(images/watch.png);
+    width: 1142px;
+    height: 300px;
+    margin-left: 150px;
+    margin-bottom:100px ;
+    border-radius: 15px;
+ 
+    
+}
+
+.bonus-place > h3{
+    
+    font-size: 60px;
+    font-weight: 700;
+    color: white;
+    height: 300px;
+    width: 500px;
+    border-radius: 15px;
+    background-image: linear-gradient(to left,
+    rgba(255, 60, 0, 0),
+    
+    rgb(198, 35, 35)
+    
+    );
+  
+}
+
+.bonus-button{
+    height: 64px;
+    width: 160px;
+    border-radius: 6px;
+    border: none;
+    margin-left: 10px;
+}
+.bonus-btn-color{
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 500px;
+
+}
