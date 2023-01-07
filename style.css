@@ -40,7 +40,11 @@
     border: 0px;
     border-radius: 5px;
 }
-
+.btn-words{
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
 /* Second Section */
 .sec2{
     margin: 0 200px;
@@ -96,6 +100,7 @@
 }
 .skills{
     margin-top: 25px;
+    margin-bottom: 100px;
     margin-left: 290px;
     display: flex;
     gap: 100px;
@@ -144,4 +149,47 @@
 }
 .contact{
     color: #FFFFFF;
+    margin-top: 10px;
+}
+.icons{
+    margin-top: 60px;
+    justify-content: space-between;
+    gap: 30px;
+}
+#email{
+    background-color: #151414;
+    margin-top: 20px;
+    height: 64px;
+    width: 325px;
+    border-color: white;
+    border-radius: 5px;
+}
+::placeholder{
+    color: #F3F3F3;
+}
+/* .btn-secondary{
+    background-color: orangered;
+    position: absolute;
+    right: 230px;
+    top: 578px;
+    height: 64px;
+    width: 160px;
+    border: 0px;
+    border-radius: 5px;
+
+} */
+.new{
+    margin-top: 20px ;
+    color: #FFFFFF;
+    height: 64px;
+    width: 160px;
+    border: 0px;
+    border-radius: 5px;
+
+}
+.new-second{
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+
 }
