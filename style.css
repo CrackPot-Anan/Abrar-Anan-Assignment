@@ -95,19 +95,21 @@
 /* Skills I have Completed */
 .skill-Plan{
     font-size: 40px;
-    margin: 40px 0;
+    margin: 60px 0;
     text-align: center;
 }
 .skills{
     margin-top: 25px;
     margin-bottom: 100px;
-    margin-left: 290px;
+    margin-left: 170px;
     display: flex;
-    gap: 100px;
+    gap: 40px;
     text-align: center;
 }
 .skill-title{
     text-align: center;
+    font-size: 30px;
+    font-weight: 700;
     font-family: sans-serif;
     margin-bottom: 1px;
     font-color:#151414;
@@ -115,7 +117,9 @@
 }
 .skil-desc{
     font-family: sans-serif;
-    font-color:#737272;
+    font-size: 25;
+    font-weight: 500;
+    color:#737272;
     
 }
 
@@ -215,7 +219,7 @@
     border-radius: 15px;
     background-image: linear-gradient(to left,
     rgba(255, 60, 0, 0),
-    
+    rgba(198,35,35),
     rgb(198, 35, 35)
     
     );
