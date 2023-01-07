@@ -95,7 +95,53 @@
     text-align: center;
 }
 .skills{
-    margin-left: 240px;
+    margin-top: 25px;
+    margin-left: 290px;
     display: flex;
     gap: 100px;
+    text-align: center;
+}
+.skill-title{
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: 1px;
+    font-color:#151414;
+  
+}
+.skil-desc{
+    font-family: sans-serif;
+    font-color:#737272;
+    
+}
+
+
+/* Footer Section and From  */
+.footer{
+    padding-top: 100px;
+    background-color: #151414;
+    display: flex;
+    justify-content: space-around;
+}
+
+.future{
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+}
+.future-desc{
+    font-size: 16px;
+    margin-top: 30px;
+    color: #FFFFFF;
+    text-align: left;
+    height: 78px;
+    width: 458px;
+
+}
+.subscribe{
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+.contact{
+    color: #FFFFFF;
 }
