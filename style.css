@@ -16,9 +16,7 @@
     left: 876px;
     top: 468px;
     right: 230px;
-
 }
-
 .first-part h3{
     font-size: 65px;
     font-weight: 700;
@@ -29,7 +27,6 @@
     right: 230px;
 }
 /*                    Button              */
-
 .btn-primary{
     background-color: orangered;
     position: absolute;
@@ -51,12 +48,9 @@
     align-items: center;
     display: flex;
 }
-
-
 .sec2-title{
     font-size: 40px;
-    font-weight: 700;
-   
+    font-weight: 70
     text-align: right;
      position: absolute;
     top: 1178px;
@@ -80,7 +74,6 @@
     font-size: 16px;
     color: #444343;
 }
-
 .sec2-desc{
     font-size: 16px;
     font-weight: 400;
@@ -90,7 +83,6 @@
     width: 316px;
     height: 106px;
     color: #444343;
-
 }
 /* Skills I have Completed */
 .skill-Plan{
@@ -113,17 +105,13 @@
     font-family: sans-serif;
     margin-bottom: 1px;
     font-color:#151414;
-  
 }
 .skil-desc{
     font-family: sans-serif;
     font-size: 25;
     font-weight: 500;
-    color:#737272;
-    
+    color:#737272;   
 }
-
-
 /* Footer Section and From  */
 .footer{
     padding-top: 100px;
@@ -131,7 +119,6 @@
     display: flex;
     justify-content: space-around;
 }
-
 .future{
     color: #F8F8F8;
     font-size: 45px;
@@ -144,7 +131,6 @@
     text-align: left;
     height: 78px;
     width: 458px;
-
 }
 .subscribe{
     color: white;
@@ -171,17 +157,6 @@
 ::placeholder{
     color: #F3F3F3;
 }
-/* .btn-secondary{
-    background-color: orangered;
-    position: absolute;
-    right: 230px;
-    top: 578px;
-    height: 64px;
-    width: 160px;
-    border: 0px;
-    border-radius: 5px;
-
-} */
 .new{
     margin-top: 20px ;
     color: #FFFFFF;
@@ -189,28 +164,21 @@
     width: 160px;
     border: 0px;
     border-radius: 5px;
-
 }
 .new-second{
     color: #F15B22;
     font-size: 20px;
     font-weight: 600;
-
 }
-
 .bonus-place{
     background-image: url(images/watch.png);
     width: 1142px;
     height: 300px;
     margin-left: 150px;
     margin-bottom:100px ;
-    border-radius: 15px;
- 
-    
+    border-radius: 15px; 
 }
-
 .bonus-place > h3{
-    
     font-size: 60px;
     font-weight: 700;
     color: white;
@@ -220,12 +188,9 @@
     background-image: linear-gradient(to left,
     rgba(255, 60, 0, 0),
     rgba(198,35,35),
-    rgb(198, 35, 35)
-    
+    rgb(198, 35, 35) 
     );
-  
 }
-
 .bonus-button{
     height: 64px;
     width: 160px;
@@ -237,5 +202,4 @@
     color: #F15B22;
     font-size: 20px;
     font-weight: 500px;
-
 }
